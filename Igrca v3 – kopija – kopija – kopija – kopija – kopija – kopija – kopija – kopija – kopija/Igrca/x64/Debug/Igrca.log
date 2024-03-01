@@ -1,0 +1,18 @@
+﻿  Game.cpp
+C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\Igrca\GameObject.h(11,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\Igrca\GameObject.h(12,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\Igrca\Game.cpp(96,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\Igrca\Game.cpp(97,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TileMap.cpp
+C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\Igrca\GameObject.h(11,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TileMap.cpp')
+  
+C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\Igrca\GameObject.h(12,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TileMap.cpp')
+  
+  Generating Code...
+  Igrca.vcxproj -> C:\Users\Luka\Desktop\Igrca v3 – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija\x64\Debug\Igrca.exe
